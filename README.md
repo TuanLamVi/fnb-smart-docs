@@ -1,18 +1,22 @@
-# F&B SMART V5.1 — COMPLETE DOCUMENTATION REFERENCE
+# F&B SMART V5.1 — Documentation Standard
 
-Đây là bộ tài liệu tham khảo được tổ chức lại từ các tài liệu dự án hiện có.
+Bộ tài liệu bổ sung cho việc phát triển Clean Rebuild.
 
-**Không thay thế KIM CHỈ NAM.**
-**Không tự tạo quyết định nghiệp vụ mới.**
-Các điểm chưa có nguồn chính thức được đánh dấu TBD / TO DEFINE / PO DECISION REQUIRED.
+## Authority
 
-Bộ này đặc biệt bổ sung lớp còn thiếu để tránh lỗi:
-“Codex làm xong database/repository nhưng PO mở APK không biết chức năng nằm ở đâu”.
+Bộ này không thay thế KIM CHỈ NAM hoặc governance hiện hành.
 
-Bắt đầu từ:
-`00_MASTER_INDEX.md`
+## Files
 
-Sau đó đọc:
-`24_NEW_AGENT_READ_FIRST.md`
-`21_MENU_PRODUCT_BLUEPRINT.md`
-`25_DOCUMENTATION_COMPLETENESS_CHECKLIST.md`
+- `00_DOCUMENTATION_MASTER_INDEX.md`
+- `01_PRODUCT_REQUIREMENTS_SPECIFICATION.md`
+- `02_UX_UI_SCREEN_SPECIFICATION.md`
+- `03_BUSINESS_RULES_AND_STATE_SPECIFICATION.md`
+- `04_ARCHITECTURE_TECHNICAL_SPECIFICATION.md`
+- `05_DATABASE_DATA_CONTRACT_SPECIFICATION.md`
+- `06_SECURITY_PERMISSION_SPECIFICATION.md`
+- `07_TEST_PO_ACCEPTANCE_SPECIFICATION.md`
+- `08_RELEASE_OPERATIONS_SPECIFICATION.md`
+- `09_FEATURE_TRACEABILITY_MATRIX.md`
+- `10_WORK_ITEM_CONTRACT.md`
+- `11_DOCUMENT_CHANGE_CONTROL.md`
